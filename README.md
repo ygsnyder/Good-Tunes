@@ -1,5 +1,5 @@
 # Good-Tunes
-Search an Artist, listen to previews of their tracks, and find similar artists
+
 ![](./sample_photos/top_tracks.png)
 ![](./sample_photos/similar_artists.png)
 
