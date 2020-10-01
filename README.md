@@ -1,6 +1,7 @@
 # Good-Tunes
 Search an Artist, listen to previews of their tracks, and find similar artists
 
+![alt text](https://github.com/ygsnyder/Good-Tunes/sample_photos/top_tracks.png?raw=true)
 
 # To Install
 In your preferred directory, run:
